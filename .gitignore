@@ -19,6 +19,7 @@ node_modules/
 
 # Obsidian Cache
 .obsidian/workspace.json
+.obsidian/workspace-mobile.json
 
 # Sistema
 .DS_Store
