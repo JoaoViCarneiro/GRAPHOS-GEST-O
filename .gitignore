@@ -1,0 +1,24 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+
+# JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# Obsidian Cache
+.obsidian/workspace.json
+
+# Sistema
+.DS_Store
